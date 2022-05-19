@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer1-uitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Kate Purpurova",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "jest-puppeteer": "^6.1.0",
+    "puppeteer": "^14.1.0"
+  }
+}
